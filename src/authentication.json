@@ -1,0 +1,7 @@
+{
+  "user.authentication.password.invalid": "Invalid Password",
+  "user.authentication.password.required": "Required Password",
+  "user.authentication.email.required": "Required email",
+  "user.authentication.banned": "You are banned!",
+  "user.authentication.password.no.match": "Password does not match!"
+}

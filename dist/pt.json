@@ -1,0 +1,8 @@
+{
+  "user.authentication.password.invalid": "Senha inválida",
+  "user.authentication.email.required": "E-mail necessário",
+  "app.description": "descrição do aplicativo",
+  "user.authentication.banned": "Você está banido!",
+  "user.authentication.password.required": "Senha exigida",
+  "user.authentication.password.no.match": "A senha não bate!"
+}
